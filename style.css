@@ -179,7 +179,7 @@ a:hover{
     justify-content: space-between;
 }
 .home-img{
-    background-image: url(resources/pic1.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic1.jpg?alt=media&token=5dbf5af2-354b-464c-9db2-7da57b484eda);
     background-size: cover;
     background-position: center;
 }
@@ -225,7 +225,7 @@ a:hover{
     margin: 8vh 0;
 }
 .timeline-img{
-    background-image: url(resources/pic2.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic2.jpg?alt=media&token=7a0e5f94-d68e-4d32-bd3b-2a82b7acd40c);
     height: 70vh;
     width: 30vw;
     background-position: center;
@@ -310,15 +310,15 @@ a:hover{
     background-position: center;
 }
 .gallery-img:nth-child(1){
-    background-image: url(resources/pic3.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic3.jpg?alt=media&token=32a76585-cbeb-41f5-8921-6ad1ff60aa79);
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
-    background-image: url(resources/pic4.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic4.jpg?alt=media&token=3bde5693-e5c8-412d-bd47-1ef972258406);
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url(resources/pic5.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic5.jpg?alt=media&token=d9ef9475-ec6d-41ca-8cfd-3e45b70139d3);
 }
 @media (max-width:1000px){
     .gallery{
@@ -362,7 +362,7 @@ a:hover{
 .hands{
     height: 120vh;
     width: 100%;
-    background-image: url(resources/pic6.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic6.jpg?alt=media&token=febecde7-9479-4a1e-8402-28f021228422);
     background-size: cover;
     background-position-y: center;
     background-attachment: fixed;
@@ -418,7 +418,7 @@ a:hover{
     display: block;
     height: 100vh;
     width: 40vw;
-    background-image: url(resources/pic7.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic7.jpg?alt=media&token=79b8d974-04ff-4b2d-bed5-82638399b34e);
     background-size: cover;
     background-position-y: top;
     background-repeat: no-repeat;
