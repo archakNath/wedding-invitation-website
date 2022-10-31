@@ -1,5 +1,5 @@
 <h1 align = "center">WEDDING INVITATION WEBSITE</h1>
-<h4 align = "center" style = "margin:0 10vw;">Aman and Gur just, two imaginary love birds just got engaged and plan to get married very soon. Are you up to bless this to be couple? Then do visit the website made for invitation to the marriage ceremony of GurAman. Your presence will definitely make this day more special for them.</h4>
+<h4 align = "center" style = "margin:0 10vw;">Aman and Gur, two imaginary love birds just got engaged and plan to get married very soon. Are you up to bless this to be couple? Then do visit the website made for invitation to the marriage ceremony of GurAman. Your presence will definitely make this day more special for them.</h4>
 <hr>
 <p align = "center"><img src = "https://github.com/archakNath/wedding-invitation-website/blob/main/ezgif-3-0dea63c5c9.gif" alt = "webpage preview"></p>
 <hr>
