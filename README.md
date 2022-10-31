@@ -1,4 +1,4 @@
-================================== wedding-invitation-website ====================================
+========== wedding-invitation-website ==========
 
 🎯Static
 
@@ -11,7 +11,7 @@
 
 ⚙️⚙️⚙️TECHNOLOGY USED : Hypertext Markup Language + Cascading Style Sheet + JavaScript⚙️⚙️⚙️
 
-=================================== SCREEN SHOTS ========================================
+========= SCREEN SHOTS ==========
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/112867859/198951158-4f066edc-e299-4a2a-aaa8-0c824cadcbd9.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/112867859/198951307-6156e0a1-bba1-442f-ae8c-2a9632728837.png)
