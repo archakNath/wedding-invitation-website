@@ -1,19 +1,19 @@
 <h1 align = "center">WEDDING INVITATION WEBSITE</h1>
 <h4 align = "center" style = "margin:0 10vw;">Aman and Gur, two imaginary love birds just got engaged and plan to get married very soon. Are you up to bless this to be couple? Then do visit the website made for invitation to the marriage ceremony of GurAman. Your presence will definitely make this day more special for them.</h4>
-<hr>
+<br>
 <p align = "center"><img src = "https://github.com/archakNath/wedding-invitation-website/blob/main/ezgif-3-0dea63c5c9.gif" alt = "webpage preview"></p>
-<hr>
+<br>
 <p align = "center">Single Page Website designed as Wedding Invitation from imaginary lovebirds Aman and Gur.</p>
 <p align = "center">
         <span>
             🎯Static
         </span><span>
-          &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 🎯Interactive&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎯Interactive&nbsp;&nbsp;&nbsp;&nbsp;
         </span><span>
             🎯Fully Responsive
         </span>
     </p>
-<hr>
+    <br>
 <h3 align = "center">Technology Used</h3><br>
 <p align = "center">
 <img src = "https://cdn-icons-png.flaticon.com/512/732/732212.png?w=360" height = "100px">
