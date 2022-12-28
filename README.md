@@ -4,6 +4,8 @@
 ## Frontend Web project on Wedding invitation to GurAman's Wedding
 ![Java](https://user-images.githubusercontent.com/112867859/209871504-40f50a44-479c-4fec-b0a1-ee1b72bfa32b.png)
 
+### To preview the webpage, [click here](https://wedding-invitation-website-plc955mba-archaknath.vercel.app/)
+
 
 
 A frontend focussed Web project that is made as an invitation to the wedding of imaginary love birds Aman and Gurdeep. The inspiration of this project was taken from an online template on wedding invitation website available on wix. [Click here](https://www.wix.com/website-template/view/html/3124?originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fevents%2Fweddings&tpClick=view_button&esi=994b31f9-7b66-4125-9bde-0b7ce55f0c0b) to view the template. It consists of the following notable features:
